@@ -1,0 +1,11 @@
+{
+    "presets": [["next/babel", { "preset-env": { "useBuiltIns": "usage", "corejs": 3 } }]],
+    "plugins": [
+      [
+        "styled-components",
+        { "fileName": true, "displayName": true, "preProcess": false, "ssr": true }
+      ],
+      ["material-ui"]
+    ]
+  }
+  

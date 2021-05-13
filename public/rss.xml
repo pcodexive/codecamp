@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>코드캠프 - 개발회사에서 만든 실무 코딩 부트캠프</title>
+    <link>https://codebootcamp.co.kr</link>
+    <description>개발회사에서 만든 실무 코딩 부트캠프 || 개발자로 커리어점프 하다.</description>
+    <item>
+      <title>우리의 미션</title>
+      <link>https://codebootcamp.co.kr/home</link>
+      <description>코드캠프는 코딩에 대한 사전지식이 없는 비전공자를 대상으로 3개월간 집중적으로 몰입하여 개발자로 성장할 수 있도록 도와주는 코딩 부트캠프입니다. 실천이 없는 '열정'은 '공상'일 뿐입니다. 개발자로 커리어 전환하는데 필요한 것은 의지와 열정입니다. 개발자로 성장해 나가는데 필요한 모든 것을 좋은 동료들과 함께 배워나갈 수 있도록 우리가 책임지겠습니다</description>
+      <guid>https://codebootcamp.co.kr/home</guid>
+    </item>
+    <item>
+      <title>MAIN COURSE</title>
+      <link>https://codebootcamp.co.kr/curriculum/codecampF</link>
+      <description>120% Front-End 개발자 Course 백앤드를 구현할 수 있는 프론트앤드 개발자를 목표로 합니다. 개발자가 어떤 마인드로 성장 할 수 있는지 바로 옆에서 배울 수 있습니다. 문제를 해결하기 위한 과정과 집요함, 협업할 수 있는 소통능력과 경청 스킬, 성장하려는 목표의식과 노력, 이 모든 것을 함께 경험하고, 보고 배울 수 있습니다.</description>
+      <guid>https://codebootcamp.co.kr/curriculum/codecampF</guid>
+    </item>
+  </channel>
+</rss>
